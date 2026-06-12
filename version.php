@@ -26,6 +26,6 @@ defined('MOODLE_INTERNAL') || die();
 
 $plugin->component = 'local_h5pchapter';
 $plugin->version = 2026060502; // yyyymmdd00.
-$plugin->requires = 2026042200; // Moodle 4.4+ requirement.
+$plugin->requires = 2024100710; // Moodle 4.5 or later.
 $plugin->maturity = MATURITY_BETA;
 $plugin->release = 'v1.0.0';
